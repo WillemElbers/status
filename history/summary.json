@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Virtual Collection Registry",
+    "url": "https://collections.clarin.eu/",
+    "icon": "https://favicons.githubusercontent.com/collections.clarin.eu",
+    "slug": "virtual-collection-registry",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 1604,
+    "timeDay": 1604,
+    "timeWeek": 1604,
+    "timeMonth": 1604,
+    "timeYear": 1604,
     "dailyMinutesDown": {}
   }
 ]
