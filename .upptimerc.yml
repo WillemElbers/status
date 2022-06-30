@@ -2,7 +2,7 @@
 owner: WillemElbers # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-sites:
+#sites:
 
 status-website:
   baseUrl: /status # where "repo" is your repository name
