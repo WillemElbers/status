@@ -3,8 +3,8 @@ owner: WillemElbers # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: Virtual Collection Registry
+    url: https://collections.clarin.eu/
 
 status-website:
   baseUrl: /status # where "repo" is your repository name
