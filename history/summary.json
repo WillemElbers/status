@@ -4,7 +4,7 @@
     "url": "https://collections.clarin.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/collections.clarin.eu.ico",
     "slug": "virtual-collection-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1376,
     "timeYear": 1399,
     "dailyMinutesDown": {
+      "2023-03-11": 0,
       "2023-03-09": 17,
       "2023-02-23": 16,
       "2022-11-08": 74,
